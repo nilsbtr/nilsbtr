@@ -2,11 +2,11 @@
 
 ### Coding Time (last 30 days)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f6e7b5f7-07af-45e7-b6c1-1163495358ca/0552a86b-cf94-4a03-a342-8feed1b7fb89.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f6e7b5f7-07af-45e7-b6c1-1163495358ca/f645d593-0ae5-413b-9367-16b1be8ccc6b.png" /></a>
 
 ### Coding Activity (last 30 days)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f6e7b5f7-07af-45e7-b6c1-1163495358ca/db926df9-66a3-4512-9e5c-9d0a695babf2.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f6e7b5f7-07af-45e7-b6c1-1163495358ca/6c51b008-9808-424c-9375-81dbb6758741.png" /></a>
 
 
 <!--
