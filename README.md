@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-
-<figure>
-<embed src="https://wakatime.com/share/@f6e7b5f7-07af-45e7-b6c1-1163495358ca/082b2f1e-f542-4b43-8409-218433c0adbf.svg"></embed>
-</figure>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **nilsbtr/nilsbtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
