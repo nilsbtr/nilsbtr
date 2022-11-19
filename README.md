@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
+### Coding Time
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@f6e7b5f7-07af-45e7-b6c1-1163495358ca/25c22105-ffd8-49cb-831d-ef5c3e92be9f.png" /></a>
 
