@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-## Coding Time
+### Coding Time (last 30 days)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f6e7b5f7-07af-45e7-b6c1-1163495358ca/25c22105-ffd8-49cb-831d-ef5c3e92be9f.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f6e7b5f7-07af-45e7-b6c1-1163495358ca/2a16120d-4341-45c9-b597-90b07ded34b0.png" /></a>
+
+### Coding Activity (last 30 days)
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f6e7b5f7-07af-45e7-b6c1-1163495358ca/db926df9-66a3-4512-9e5c-9d0a695babf2.png" /></a>
 
 
 <!--
