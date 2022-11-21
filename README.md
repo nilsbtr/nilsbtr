@@ -7,10 +7,10 @@
 
 ---
 
-### Coding Language (last 7 days)
+### Coding Language (last 30 days)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f6e7b5f7-07af-45e7-b6c1-1163495358ca/f645d593-0ae5-413b-9367-16b1be8ccc6b.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@nilsbtr/18cc0625-b7b5-4108-aae7-7bdee4108b3f.png" /></a>
 
-### Coding Activity (last 7 days)
+### Coding Activity (last 30 days)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@nilsbtr/09191af1-07e9-4bdd-9df8-a6ff88584f6a.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@nilsbtr/af74326b-c7e5-4f2a-8011-f1c1ff912b7e.png" /></a>
