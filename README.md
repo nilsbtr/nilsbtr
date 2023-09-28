@@ -9,8 +9,8 @@
 
 ### Coding Language (last 30 days)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@nilsbtr/18cc0625-b7b5-4108-aae7-7bdee4108b3f.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@nilsbtr/71b3f35b-528f-45f3-add8-36cb3578864c.png" /></a>
 
 ### Coding Activity (last 30 days)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@nilsbtr/af74326b-c7e5-4f2a-8011-f1c1ff912b7e.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@nilsbtr/07bc7b18-3dd5-47b9-85c3-76a90f11e240.png" /></a>
