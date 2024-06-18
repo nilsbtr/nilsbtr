@@ -9,7 +9,7 @@
 
 ### Coding Language (last 30 days)
 
-<figure><embed src="https://wakatime.com/share/@nilsbtr/a903f91f-2db3-4215-8991-9ea89a9da191.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@nilsbtr/f7ace853-d610-4d9b-a8a7-d7483b3a87fb.png" /></a>
 
 ### Coding Activity (last 30 days)
 
