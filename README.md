@@ -20,7 +20,7 @@
 
 ```js
 const me = {
-  ort:      "Braunschweig, DE 🇩🇪",
+  ort:      "Braunschweig, DE",
   rolle:    "Full-Stack Developer",
   core:     ["TypeScript", "Next.js", "Go", "PostgreSQL"],
   explore:  ["TanStack Start", "Convex", "Motion"],
