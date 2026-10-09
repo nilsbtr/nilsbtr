@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2CB67D&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+aus+Hamburg+%F0%9F%8C%8A;Ich+baue+Dinge+f%C3%BCrs+Web+%F0%9F%9A%80;Immer+am+Lernen+%F0%9F%93%9A;Kaffee+%E2%86%92+Code+%E2%86%92+Repeat+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2CB67D&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+aus+Braunschweig+%F0%9F%8C%8A;Ich+baue+Dinge+f%C3%BCrs+Web+%F0%9F%9A%80;Immer+am+Lernen+%F0%9F%93%9A;Kaffee+%E2%86%92+Code+%E2%86%92+Repeat+%E2%98%95" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ```js
 const me = {
-  ort:      "Hamburg, DE 🇩🇪",
+  ort:      "Braunschweig, DE 🇩🇪",
   rolle:    "Full-Stack Developer",
   core:     ["TypeScript", "Next.js", "Go", "PostgreSQL"],
   explore:  ["TanStack Start", "Convex", "Motion"],
