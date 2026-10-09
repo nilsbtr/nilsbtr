@@ -25,7 +25,7 @@ const me = {
   core:     ["TypeScript", "Next.js", "Go", "PostgreSQL"],
   explore:  ["TanStack Start", "Convex", "Motion"],
   sprachen: ["Deutsch", "Englisch"],
-  funFact:  "Mein bester Code entsteht nach 22 Uhr 🌙",
+  funFact:  "Wenn ich nicht code, findest du mich im Gym 🏋️",
 };
 ```
 
