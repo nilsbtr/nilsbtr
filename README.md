@@ -1,16 +1,20 @@
-<a href="https://www.nilsbtr.de">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
-    <img src="./assets/header-dark.svg" width="420" alt="Hi, I'm Nils." />
-  </picture>
-</a>
+<p>
+  <a href="https://www.nilsbtr.de">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+      <img src="./assets/header-dark.svg" width="420" alt="Hi, I'm Nils." />
+    </picture>
+  </a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/label-about-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/label-about-light.svg" />
-  <img src="./assets/label-about-dark.svg" alt="About" />
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/label-about-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/label-about-light.svg" />
+    <img src="./assets/label-about-dark.svg" alt="About" />
+  </picture>
+</p>
 
 - **Based in** Braunschweig, Germany
 - **Building** full-stack web apps, mostly TypeScript with Next.js or Astro
@@ -21,22 +25,25 @@
 
 <br />
 
-<a href="https://www.nilsbtr.de/stack">
+<p>
+  <a href="https://www.nilsbtr.de/stack">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" />
+      <img src="./assets/stack-dark.svg" alt="Stack: TypeScript, React, Next.js, Astro, Tailwind CSS, Go, Python, FastAPI, PostgreSQL, Docker, GitHub, Vercel" />
+    </picture>
+  </a>
+</p>
+
+<br />
+
+<p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" />
-    <img src="./assets/stack-dark.svg" alt="Stack: TypeScript, React, Next.js, Astro, Tailwind CSS, Go, Python, FastAPI, PostgreSQL, Docker, GitHub, Vercel" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/label-contact-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/label-contact-light.svg" />
+    <img src="./assets/label-contact-dark.svg" alt="Contact" />
   </picture>
-</a>
-
-<br />
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/label-contact-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/label-contact-light.svg" />
-  <img src="./assets/label-contact-dark.svg" alt="Contact" />
-</picture>
+</p>
 
 [nilsbtr.de](https://www.nilsbtr.de) · [mail@nilsbtr.de](mailto:mail@nilsbtr.de)
 
