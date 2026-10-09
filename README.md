@@ -33,7 +33,6 @@ const me = {
 - 🌱 Gerade experimentiere ich mit **TanStack Start**, **Convex** und **Motion**
 - 💬 Frag mich zu **TypeScript, React/Next.js, Go**
 - 🌐 Mehr über mich und meine Arbeit auf **[meiner Website](https://www.nilsbtr.de)**
-- ⚡ Fun Fact: _Hier etwas Persönliches einsetzen_
 
 ---
 
