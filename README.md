@@ -6,6 +6,12 @@
   </picture>
 </a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/label-about-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/label-about-light.svg" />
+  <img src="./assets/label-about-dark.svg" alt="About" />
+</picture>
+
 - **Based in** Braunschweig, Germany
 - **Building** full-stack web apps, mostly TypeScript with Next.js or Astro
 - **Backend** Go when performance matters, Python for AI features and scripts
@@ -25,6 +31,12 @@
 
 <br />
 <br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/label-contact-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/label-contact-light.svg" />
+  <img src="./assets/label-contact-dark.svg" alt="Contact" />
+</picture>
 
 [nilsbtr.de](https://www.nilsbtr.de) · [mail@nilsbtr.de](mailto:mail@nilsbtr.de)
 
