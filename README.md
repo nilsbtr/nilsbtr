@@ -1,4 +1,3 @@
-<!-- ===================== HEADER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F5AF0,50:2CB67D,100:00C2FF&text=Hi,%20ich%20bin%20Nils&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Tüftler&descAlignY=58&descSize=18&animation=fadeIn" alt="Header" />
 </p>
@@ -23,14 +22,15 @@
 const me = {
   ort:      "Hamburg, DE 🇩🇪",
   rolle:    "Full-Stack Developer",
-  lerne:    ["Rust", "Kubernetes"],
+  core:     ["TypeScript", "Next.js", "Go", "PostgreSQL"],
+  explore:  ["TanStack Start", "Convex", "Motion"],
   sprachen: ["Deutsch", "Englisch"],
   funFact:  "Mein bester Code entsteht nach 22 Uhr 🌙",
 };
 ```
 
-- 🌱 Gerade lerne ich **Rust** und **Cloud-Native-Architekturen**
-- 💬 Frag mich zu **TypeScript, React, Node.js**
+- 🌱 Gerade experimentiere ich mit **TanStack Start**, **Convex** und **Motion**
+- 💬 Frag mich zu **TypeScript, React/Next.js, Go**
 - 🌐 Mehr über mich und meine Arbeit auf **[meiner Website](https://www.nilsbtr.de)**
 - ⚡ Fun Fact: _Hier etwas Persönliches einsetzen_
 
@@ -39,20 +39,19 @@ const me = {
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,rust,react,nextjs,nodejs,tailwind&perline=8" alt="Sprachen & Frameworks" />
+  <a href="https://www.nilsbtr.de/stack">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,go,postgres,docker,vercel&perline=7" alt="Core Stack" />
   </a>
   <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,aws,git,linux&perline=8" alt="Datenbanken & Tools" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,githubactions,vercel&perline=8" alt="Workflow" />
+  <a href="https://www.nilsbtr.de/stack">
+    <img src="https://skillicons.dev/icons?i=tailwind,vite,py,flask,java,spring,github&perline=7" alt="Toolkit" />
   </a>
 </p>
 
-<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <sub>Vollständiger Stack auf <a href="https://www.nilsbtr.de/stack">nilsbtr.de/stack</a></sub>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C2FF,50:2CB67D,100:7F5AF0" alt="Footer" />
 </p>
